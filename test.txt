@@ -1,8 +1,11 @@
 hi 
 how's it going? 
 testing my first respository
+<<<<<<< HEAD
 
 removing stuff
 blah blah blah 
 
 adding stuff
+=======
+>>>>>>> 02f0015353ac3f605f3fea9967f9210527e7ca8d
